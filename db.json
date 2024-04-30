@@ -1,0 +1,14 @@
+{
+    "Bijouterie": [
+        {
+            "id": 1,
+            "nombre": "Aros",
+            "precio": 1200
+        },
+        {
+            "id": 2,
+            "nombre": "Cadenas",
+            "precio": 3000
+        }
+    ]
+}
